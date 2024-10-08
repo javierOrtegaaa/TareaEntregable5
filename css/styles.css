@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: black;
+    margin: 20px;
+    text-align: center;
+}
+
+h1 {
+margin-bottom: 20px;
+}
+
+.button-container {
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.btn-tema.rojo {
+    background-color: red;
+    color: white;
+}
+
+.btn-tema.azul {
+    background-color: blue;
+    color: white;
+}
+
+.btn-tema.verde {
+    background-color: green;
+    color: white;
+}
+
+.btn-tema.reset {
+    background-color: black;
+    color: white;
+}
+
+.tema-rojo {
+    background-color: #ffcccc;
+    color: #800000;
+}
+
+.tema-azul {
+    background-color: #cce5ff;
+    color: #003366;
+}
+
+.tema-verde {
+    background-color: #ccffcc;
+    color: #006600;
+}
